@@ -71,5 +71,6 @@
       "unitTestRunner": "jest"
     }
   },
-  "defaultProject": "nx-monorepo-app"
+  "defaultProject": "nx-monorepo-app",
+  "nxCloudAccessToken": "YzhlZWY3NTEtZWY3Zi00NzYwLThjOWUtZjM2MGY4OGQwMmEzfHJlYWQtd3JpdGU="
 }
